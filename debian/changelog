@@ -1,3 +1,9 @@
+xcb-util-image (0.4.0-deepin2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Thu, 10 Sep 2026 21:16:30 +0800
+
 xcb-util-image (0.4.0-deepin1) unstable; urgency=medium
 
   * Rebuild
